@@ -12,7 +12,7 @@ It was built completely from scratch in C/C++ without any preexisting libraries,
 * FIFO scheduling algorithm
 * periodic thread support
 
-## Needed Linux packages for starting the project:
+## Linux packages for starting the project:
 * build-essential
 * qemu-system-misc
 * gcc-riscv64-linux-gnu
